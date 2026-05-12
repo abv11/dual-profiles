@@ -1,6 +1,6 @@
 # Instagram Dual Profiles
 
-Projeto inspirado na interface do Instagram contendo dois perfis fictícios exibidos lado a lado em formato de celular.
+Projeto inspirado na interface do Instagram contendo dois perfis exibidos lado a lado em formato de celular.
 
 ## Preview
 
